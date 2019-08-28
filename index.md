@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+## 马鑫
 
-You can use the [editor on GitHub](https://github.com/ma1169382952/maxin.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+###### java开发
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+现居地：石家庄
 
-### Markdown
+所学专业：软件工程
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+个人博客：https://www.cnblogs.com/maxin123/
 
-```markdown
-Syntax highlighted code block
+电子邮箱：ma1169382952@163.com
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+## MaXin
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+###### Java development
 
-### Jekyll Themes
+Present residence: Shijiazhuang
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ma1169382952/maxin.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Major: Software Engineering
 
-### Support or Contact
+Personal blog: https://www.cnblogs.com/maxin123/
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+E-mail: ma1169382952@163.com
