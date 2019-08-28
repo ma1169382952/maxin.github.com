@@ -43,7 +43,7 @@ E-mail: ma1169382952@163.com
                     <a href="/u/maxin123/" class="feed_author">Robortxin</a>
                     发表博客： <a href="https://www.cnblogs.com/maxin123/p/11046860.html" target="_blank" class="feed_link">jsp+servlet和ajex中遇到的问题</a> 
                         <a class="recycle" onclick="return deleteFeed('b61dd38e-932d-424f-ca9e-08d49c352df2', '5d08bb5a63abf8af02d2e983')" href="javascript: void(0);" title="删除这个动态">
-                        src="//common.cnblogs.com/images/icon_trash.gif"></a>
+                       </a>
                                             <span class="feed_date">2019-06-18 18:21</span>
                 </div>
                     <div class="feed_desc">
@@ -61,7 +61,7 @@ E-mail: ma1169382952@163.com
                     <a href="/u/maxin123/" class="feed_author">Robortxin</a>
                     发表博客： <a href="https://www.cnblogs.com/maxin123/p/11022138.html" target="_blank" class="feed_link">旅客行程智能推荐系统架构漫谈</a> 
                         <a class="recycle" onclick="return deleteFeed('b61dd38e-932d-424f-ca9e-08d49c352df2', '5d030a0263abf8af02b8600e')" href="javascript: void(0);" title="删除这个动态">
-                        src="//common.cnblogs.com/images/icon_trash.gif"></a>
+                       </a>
                                             <span class="feed_date">2019-06-14 10:43</span>
                 </div>
                     <div class="feed_desc">
@@ -79,7 +79,7 @@ E-mail: ma1169382952@163.com
                     <a href="/u/maxin123/" class="feed_author">Robortxin</a>
                     发表博客： <a href="https://www.cnblogs.com/maxin123/p/11022138.html" target="_blank" class="feed_link">旅客行程智能推荐系统架构漫谈</a> 
                         <a class="recycle" onclick="return deleteFeed('b61dd38e-932d-424f-ca9e-08d49c352df2', '5d030a0263abf8af02b8600b')" href="javascript: void(0);" title="删除这个动态">
-                      src="//common.cnblogs.com/images/icon_trash.gif"></a>
+                    </a>
                                             <span class="feed_date">2019-06-14 10:43</span>
                 </div>
                     <div class="feed_desc">
@@ -97,7 +97,7 @@ E-mail: ma1169382952@163.com
                     <a href="/u/maxin123/" class="feed_author">Robortxin</a>
                     发表博客： <a href="https://www.cnblogs.com/maxin123/p/11021386.html" target="_blank" class="feed_link">深度学习算法部分</a> 
                         <a class="recycle" onclick="return deleteFeed('b61dd38e-932d-424f-ca9e-08d49c352df2', '5d02f56263abf8af02b7e8a7')" href="javascript: void(0);" title="删除这个动态">
-                       src="//common.cnblogs.com/images/icon_trash.gif"></a>
+                      </a>
                                             <span class="feed_date">2019-06-14 09:15</span>
                 </div>
                     <div class="feed_desc">
@@ -115,7 +115,7 @@ E-mail: ma1169382952@163.com
                     <a href="/u/maxin123/" class="feed_author">Robortxin</a>
                     发表博客： <a href="https://www.cnblogs.com/maxin123/p/11021386.html" target="_blank" class="feed_link">深度学习算法部分</a> 
                         <a class="recycle" onclick="return deleteFeed('b61dd38e-932d-424f-ca9e-08d49c352df2', '5d02f56263abf8af02b7e8a5')" href="javascript: void(0);" title="删除这个动态">
-                        src="//common.cnblogs.com/images/icon_trash.gif"></a>
+                       </a>
                                             <span class="feed_date">2019-06-14 09:14</span>
                 </div>
                     <div class="feed_desc">
@@ -133,7 +133,7 @@ E-mail: ma1169382952@163.com
                     <a href="/u/maxin123/" class="feed_author">Robortxin</a>
                     发表博客： <a href="https://www.cnblogs.com/maxin123/p/8575029.html" target="_blank" class="feed_link">《人月神话》阅读计划</a> 
                         <a class="recycle" onclick="return deleteFeed('b61dd38e-932d-424f-ca9e-08d49c352df2', '5c395ea8cc5af7edcbb6c084')" href="javascript: void(0);" title="删除这个动态">
-                        src="//common.cnblogs.com/images/icon_trash.gif"></a>
+                       </a>
                                             <span class="feed_date">2018-03-15 17:46</span>
                 </div>
                     <div class="feed_desc">
@@ -150,8 +150,8 @@ E-mail: ma1169382952@163.com
                 <div class="feed_title">
                     <a href="/u/maxin123/" class="feed_author">Robortxin</a>
                     发表博客： <a href="https://www.cnblogs.com/maxin123/p/8529572.html" target="_blank" class="feed_link">读博客，了解本学期《软件需求与分析》掌握必要的内容</a> 
-                        <a class="recycle" onclick="return deleteFeed('b61dd38e-932d-424f-ca9e-08d49c352df2', '5c395efacc5af7edcbb8dc96')" href="javascript: void(0);" title="删除这个动态">
-                       src="//common.cnblogs.com/images/icon_trash.gif"></a>
+                        <a class="recycle" onclick="return deleteFeed('b61dd38e-932d-424f-ca9e-08d49c352df2', '5c395efacc5af7edcbb8dc96')">
+                      </a>
                                             <span class="feed_date">2018-03-08 17:09</span>
                 </div>
                     <div class="feed_desc">
@@ -168,8 +168,7 @@ E-mail: ma1169382952@163.com
                 <div class="feed_title">
                     <a href="/u/maxin123/" class="feed_author">Robortxin</a>
                     发表博客： <a href="https://www.cnblogs.com/maxin123/p/8298948.html" target="_blank" class="feed_link">七天冲刺5</a> 
-                        <a class="recycle" onclick="return deleteFeed('b61dd38e-932d-424f-ca9e-08d49c352df2', '5c3960681d57bddc4091fe87')" href="javascript: void(0);" title="删除这个动态">
-                        src="//common.cnblogs.com/images/icon_trash.gif"></a>
+                        <a class="recycle" onclick="return deleteFeed('b61dd38e-932d-424f-ca9e-08d49c352df2', '5c3960681d57bddc4091fe87')" </a>
                                             <span class="feed_date">2018-01-16 21:36</span>
                 </div>
                     <div class="feed_desc">
