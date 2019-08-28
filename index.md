@@ -35,9 +35,7 @@ E-mail: ma1169382952@163.com
 
 
         <li class="feed_item">
-            <div class="feed_avatar">
-                <a href="/u/maxin123"><img src="//pic.cnblogs.com/face/sample_face.gif"></a>
-            </div>
+           
             <div class="feed_body" id="feed_content_5d08bb5a63abf8af02d2e983">
                 <div class="feed_title">
                     <a href="/u/maxin123/" class="feed_author">Robortxin</a>
@@ -53,9 +51,7 @@ E-mail: ma1169382952@163.com
             <div class="clear"></div>
         </li>
         <li class="feed_item">
-            <div class="feed_avatar">
-                <a href="/u/maxin123"><img src="//pic.cnblogs.com/face/sample_face.gif"></a>
-            </div>
+           
             <div class="feed_body" id="feed_content_5d030a0263abf8af02b8600e">
                 <div class="feed_title">
                     <a href="/u/maxin123/" class="feed_author">Robortxin</a>
@@ -71,9 +67,7 @@ E-mail: ma1169382952@163.com
             <div class="clear"></div>
         </li>
         <li class="feed_item">
-            <div class="feed_avatar">
-                <a href="/u/maxin123"><img src="//pic.cnblogs.com/face/sample_face.gif"></a>
-            </div>
+           
             <div class="feed_body" id="feed_content_5d030a0263abf8af02b8600b">
                 <div class="feed_title">
                     <a href="/u/maxin123/" class="feed_author">Robortxin</a>
@@ -89,9 +83,7 @@ E-mail: ma1169382952@163.com
             <div class="clear"></div>
         </li>
         <li class="feed_item">
-            <div class="feed_avatar">
-                <a href="/u/maxin123"><img src="//pic.cnblogs.com/face/sample_face.gif"></a>
-            </div>
+           
             <div class="feed_body" id="feed_content_5d02f56263abf8af02b7e8a7">
                 <div class="feed_title">
                     <a href="/u/maxin123/" class="feed_author">Robortxin</a>
@@ -107,9 +99,7 @@ E-mail: ma1169382952@163.com
             <div class="clear"></div>
         </li>
         <li class="feed_item">
-            <div class="feed_avatar">
-                <a href="/u/maxin123"><img src="//pic.cnblogs.com/face/sample_face.gif"></a>
-            </div>
+           
             <div class="feed_body" id="feed_content_5d02f56263abf8af02b7e8a5">
                 <div class="feed_title">
                     <a href="/u/maxin123/" class="feed_author">Robortxin</a>
@@ -125,9 +115,7 @@ E-mail: ma1169382952@163.com
             <div class="clear"></div>
         </li>
         <li class="feed_item">
-            <div class="feed_avatar">
-                <a href="/u/maxin123"><img src="//pic.cnblogs.com/face/sample_face.gif"></a>
-            </div>
+            
             <div class="feed_body" id="feed_content_5c395ea8cc5af7edcbb6c084">
                 <div class="feed_title">
                     <a href="/u/maxin123/" class="feed_author">Robortxin</a>
@@ -143,9 +131,7 @@ E-mail: ma1169382952@163.com
             <div class="clear"></div>
         </li>
         <li class="feed_item">
-            <div class="feed_avatar">
-                <a href="/u/maxin123"><img src="//pic.cnblogs.com/face/sample_face.gif"></a>
-            </div>
+           
             <div class="feed_body" id="feed_content_5c395efacc5af7edcbb8dc96">
                 <div class="feed_title">
                     <a href="/u/maxin123/" class="feed_author">Robortxin</a>
