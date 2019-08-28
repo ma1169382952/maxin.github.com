@@ -28,28 +28,12 @@ E-mail: ma1169382952@163.com
 
 
 
-
-            <div class="clear"></div>
-
 ​      
 
 <ul>        <li class="feed_item">
 
 
-            <div class="feed_body" id="feed_content_5d0aeeca63abf8af02de2dab">
-                <div class="feed_title">
-                    <a href="/u/maxin123/" class="feed_author">Robortxin</a>
-                    评论博客： <a href="https://www.cnblogs.com/2016-zck/p/11017470.html#4283660" target="_blank" class="feed_link">javascript预编译</a> 
-                        <a class="recycle" onclick="return deleteFeed('b61dd38e-932d-424f-ca9e-08d49c352df2', '5d0aeeca63abf8af02de2dab')" href="javascript: void(0);" title="删除这个动态">
-                        <img alt="删除" src="//common.cnblogs.com/images/icon_trash.gif"></a>
-                                            <span class="feed_date">2019-06-20 10:24</span>
-                </div>
-                    <div class="feed_desc">
-                        web稳过了，笔者万岁，
-                    </div>
-            </div>            
-            <div class="clear"></div>
-        </li>
+       
         <li class="feed_item">
             <div class="feed_avatar">
                 <a href="/u/maxin123"><img src="//pic.cnblogs.com/face/sample_face.gif"></a>
@@ -59,7 +43,7 @@ E-mail: ma1169382952@163.com
                     <a href="/u/maxin123/" class="feed_author">Robortxin</a>
                     发表博客： <a href="https://www.cnblogs.com/maxin123/p/11046860.html" target="_blank" class="feed_link">jsp+servlet和ajex中遇到的问题</a> 
                         <a class="recycle" onclick="return deleteFeed('b61dd38e-932d-424f-ca9e-08d49c352df2', '5d08bb5a63abf8af02d2e983')" href="javascript: void(0);" title="删除这个动态">
-                        <img alt="删除" src="//common.cnblogs.com/images/icon_trash.gif"></a>
+                        src="//common.cnblogs.com/images/icon_trash.gif"></a>
                                             <span class="feed_date">2019-06-18 18:21</span>
                 </div>
                     <div class="feed_desc">
@@ -77,7 +61,7 @@ E-mail: ma1169382952@163.com
                     <a href="/u/maxin123/" class="feed_author">Robortxin</a>
                     发表博客： <a href="https://www.cnblogs.com/maxin123/p/11022138.html" target="_blank" class="feed_link">旅客行程智能推荐系统架构漫谈</a> 
                         <a class="recycle" onclick="return deleteFeed('b61dd38e-932d-424f-ca9e-08d49c352df2', '5d030a0263abf8af02b8600e')" href="javascript: void(0);" title="删除这个动态">
-                        <img alt="删除" src="//common.cnblogs.com/images/icon_trash.gif"></a>
+                        src="//common.cnblogs.com/images/icon_trash.gif"></a>
                                             <span class="feed_date">2019-06-14 10:43</span>
                 </div>
                     <div class="feed_desc">
@@ -95,7 +79,7 @@ E-mail: ma1169382952@163.com
                     <a href="/u/maxin123/" class="feed_author">Robortxin</a>
                     发表博客： <a href="https://www.cnblogs.com/maxin123/p/11022138.html" target="_blank" class="feed_link">旅客行程智能推荐系统架构漫谈</a> 
                         <a class="recycle" onclick="return deleteFeed('b61dd38e-932d-424f-ca9e-08d49c352df2', '5d030a0263abf8af02b8600b')" href="javascript: void(0);" title="删除这个动态">
-                        <img alt="删除" src="//common.cnblogs.com/images/icon_trash.gif"></a>
+                      src="//common.cnblogs.com/images/icon_trash.gif"></a>
                                             <span class="feed_date">2019-06-14 10:43</span>
                 </div>
                     <div class="feed_desc">
@@ -113,7 +97,7 @@ E-mail: ma1169382952@163.com
                     <a href="/u/maxin123/" class="feed_author">Robortxin</a>
                     发表博客： <a href="https://www.cnblogs.com/maxin123/p/11021386.html" target="_blank" class="feed_link">深度学习算法部分</a> 
                         <a class="recycle" onclick="return deleteFeed('b61dd38e-932d-424f-ca9e-08d49c352df2', '5d02f56263abf8af02b7e8a7')" href="javascript: void(0);" title="删除这个动态">
-                        <img alt="删除" src="//common.cnblogs.com/images/icon_trash.gif"></a>
+                       src="//common.cnblogs.com/images/icon_trash.gif"></a>
                                             <span class="feed_date">2019-06-14 09:15</span>
                 </div>
                     <div class="feed_desc">
@@ -131,7 +115,7 @@ E-mail: ma1169382952@163.com
                     <a href="/u/maxin123/" class="feed_author">Robortxin</a>
                     发表博客： <a href="https://www.cnblogs.com/maxin123/p/11021386.html" target="_blank" class="feed_link">深度学习算法部分</a> 
                         <a class="recycle" onclick="return deleteFeed('b61dd38e-932d-424f-ca9e-08d49c352df2', '5d02f56263abf8af02b7e8a5')" href="javascript: void(0);" title="删除这个动态">
-                        <img alt="删除" src="//common.cnblogs.com/images/icon_trash.gif"></a>
+                        src="//common.cnblogs.com/images/icon_trash.gif"></a>
                                             <span class="feed_date">2019-06-14 09:14</span>
                 </div>
                     <div class="feed_desc">
@@ -149,7 +133,7 @@ E-mail: ma1169382952@163.com
                     <a href="/u/maxin123/" class="feed_author">Robortxin</a>
                     发表博客： <a href="https://www.cnblogs.com/maxin123/p/8575029.html" target="_blank" class="feed_link">《人月神话》阅读计划</a> 
                         <a class="recycle" onclick="return deleteFeed('b61dd38e-932d-424f-ca9e-08d49c352df2', '5c395ea8cc5af7edcbb6c084')" href="javascript: void(0);" title="删除这个动态">
-                        <img alt="删除" src="//common.cnblogs.com/images/icon_trash.gif"></a>
+                        src="//common.cnblogs.com/images/icon_trash.gif"></a>
                                             <span class="feed_date">2018-03-15 17:46</span>
                 </div>
                     <div class="feed_desc">
@@ -167,7 +151,7 @@ E-mail: ma1169382952@163.com
                     <a href="/u/maxin123/" class="feed_author">Robortxin</a>
                     发表博客： <a href="https://www.cnblogs.com/maxin123/p/8529572.html" target="_blank" class="feed_link">读博客，了解本学期《软件需求与分析》掌握必要的内容</a> 
                         <a class="recycle" onclick="return deleteFeed('b61dd38e-932d-424f-ca9e-08d49c352df2', '5c395efacc5af7edcbb8dc96')" href="javascript: void(0);" title="删除这个动态">
-                        <img alt="删除" src="//common.cnblogs.com/images/icon_trash.gif"></a>
+                       src="//common.cnblogs.com/images/icon_trash.gif"></a>
                                             <span class="feed_date">2018-03-08 17:09</span>
                 </div>
                     <div class="feed_desc">
@@ -185,7 +169,7 @@ E-mail: ma1169382952@163.com
                     <a href="/u/maxin123/" class="feed_author">Robortxin</a>
                     发表博客： <a href="https://www.cnblogs.com/maxin123/p/8298948.html" target="_blank" class="feed_link">七天冲刺5</a> 
                         <a class="recycle" onclick="return deleteFeed('b61dd38e-932d-424f-ca9e-08d49c352df2', '5c3960681d57bddc4091fe87')" href="javascript: void(0);" title="删除这个动态">
-                        <img alt="删除" src="//common.cnblogs.com/images/icon_trash.gif"></a>
+                        src="//common.cnblogs.com/images/icon_trash.gif"></a>
                                             <span class="feed_date">2018-01-16 21:36</span>
                 </div>
                     <div class="feed_desc">
@@ -203,7 +187,7 @@ E-mail: ma1169382952@163.com
                     <a href="/u/maxin123/" class="feed_author">Robortxin</a>
                     发表博客： <a href="https://www.cnblogs.com/maxin123/p/8298941.html" target="_blank" class="feed_link">七天冲刺04</a> 
                         <a class="recycle" onclick="return deleteFeed('b61dd38e-932d-424f-ca9e-08d49c352df2', '5c3960681d57bddc4091fe97')" href="javascript: void(0);" title="删除这个动态">
-                        <img alt="删除" src="//common.cnblogs.com/images/icon_trash.gif"></a>
+                       src="//common.cnblogs.com/images/icon_trash.gif"></a>
                                             <span class="feed_date">2018-01-16 21:35</span>
                 </div>
                     <div class="feed_desc">
@@ -221,7 +205,7 @@ E-mail: ma1169382952@163.com
                     <a href="/u/maxin123/" class="feed_author">Robortxin</a>
                     发表博客： <a href="https://www.cnblogs.com/maxin123/p/8298941.html" target="_blank" class="feed_link">七天冲刺04</a> 
                         <a class="recycle" onclick="return deleteFeed('b61dd38e-932d-424f-ca9e-08d49c352df2', '5c3960681d57bddc4091fea3')" href="javascript: void(0);" title="删除这个动态">
-                        <img alt="删除" src="//common.cnblogs.com/images/icon_trash.gif"></a>
+                        src="//common.cnblogs.com/images/icon_trash.gif"></a>
                                             <span class="feed_date">2018-01-16 21:35</span>
                 </div>
                     <div class="feed_desc">
@@ -239,7 +223,7 @@ E-mail: ma1169382952@163.com
                     <a href="/u/maxin123/" class="feed_author">Robortxin</a>
                     发表博客： <a href="https://www.cnblogs.com/maxin123/p/8298898.html" target="_blank" class="feed_link">第17周总结</a> 
                         <a class="recycle" onclick="return deleteFeed('b61dd38e-932d-424f-ca9e-08d49c352df2', '5c3960681d57bddc4091ff32')" href="javascript: void(0);" title="删除这个动态">
-                        <img alt="删除" src="//common.cnblogs.com/images/icon_trash.gif"></a>
+                        src="//common.cnblogs.com/images/icon_trash.gif"></a>
                                             <span class="feed_date">2018-01-16 21:26</span>
                 </div>
                     <div class="feed_desc">
@@ -257,7 +241,7 @@ E-mail: ma1169382952@163.com
                     <a href="/u/maxin123/" class="feed_author">Robortxin</a>
                     发表博客： <a href="https://www.cnblogs.com/maxin123/p/8298898.html" target="_blank" class="feed_link">第17周总结</a> 
                         <a class="recycle" onclick="return deleteFeed('b61dd38e-932d-424f-ca9e-08d49c352df2', '5c3960681d57bddc4091ff3c')" href="javascript: void(0);" title="删除这个动态">
-                        <img alt="删除" src="//common.cnblogs.com/images/icon_trash.gif"></a>
+                        src="//common.cnblogs.com/images/icon_trash.gif"></a>
                                             <span class="feed_date">2018-01-16 21:26</span>
                 </div>
                     <div class="feed_desc">
@@ -275,7 +259,7 @@ E-mail: ma1169382952@163.com
                     <a href="/u/maxin123/" class="feed_author">Robortxin</a>
                     发表博客： <a href="https://www.cnblogs.com/maxin123/p/8298887.html" target="_blank" class="feed_link">第16周总结</a> 
                         <a class="recycle" onclick="return deleteFeed('b61dd38e-932d-424f-ca9e-08d49c352df2', '5c3960681d57bddc4091ff6f')" href="javascript: void(0);" title="删除这个动态">
-                        <img alt="删除" src="//common.cnblogs.com/images/icon_trash.gif"></a>
+                       src="//common.cnblogs.com/images/icon_trash.gif"></a>
                                             <span class="feed_date">2018-01-16 21:24</span>
                 </div>
                     <div class="feed_desc">
@@ -293,7 +277,7 @@ E-mail: ma1169382952@163.com
                     <a href="/u/maxin123/" class="feed_author">Robortxin</a>
                     发表博客： <a href="https://www.cnblogs.com/maxin123/p/8298887.html" target="_blank" class="feed_link">第16周总结</a> 
                         <a class="recycle" onclick="return deleteFeed('b61dd38e-932d-424f-ca9e-08d49c352df2', '5c3960681d57bddc4091ff7a')" href="javascript: void(0);" title="删除这个动态">
-                        <img alt="删除" src="//common.cnblogs.com/images/icon_trash.gif"></a>
+                        src="//common.cnblogs.com/images/icon_trash.gif"></a>
                                             <span class="feed_date">2018-01-16 21:24</span>
                 </div>
                     <div class="feed_desc">
@@ -311,7 +295,7 @@ E-mail: ma1169382952@163.com
                     <a href="/u/maxin123/" class="feed_author">Robortxin</a>
                     发表博客： <a href="https://www.cnblogs.com/maxin123/p/8298853.html" target="_blank" class="feed_link">第15周总结</a> 
                         <a class="recycle" onclick="return deleteFeed('b61dd38e-932d-424f-ca9e-08d49c352df2', '5c3960681d57bddc4091fff5')" href="javascript: void(0);" title="删除这个动态">
-                        <img alt="删除" src="//common.cnblogs.com/images/icon_trash.gif"></a>
+                       src="//common.cnblogs.com/images/icon_trash.gif"></a>
                                             <span class="feed_date">2018-01-16 21:17</span>
                 </div>
                     <div class="feed_desc">
@@ -329,7 +313,7 @@ E-mail: ma1169382952@163.com
                     <a href="/u/maxin123/" class="feed_author">Robortxin</a>
                     发表博客： <a href="https://www.cnblogs.com/maxin123/p/8298853.html" target="_blank" class="feed_link">第15周总结</a> 
                         <a class="recycle" onclick="return deleteFeed('b61dd38e-932d-424f-ca9e-08d49c352df2', '5c3960681d57bddc40920001')" href="javascript: void(0);" title="删除这个动态">
-                        <img alt="删除" src="//common.cnblogs.com/images/icon_trash.gif"></a>
+                        src="//common.cnblogs.com/images/icon_trash.gif"></a>
                                             <span class="feed_date">2018-01-16 21:16</span>
                 </div>
                     <div class="feed_desc">
@@ -347,7 +331,7 @@ E-mail: ma1169382952@163.com
                     <a href="/u/maxin123/" class="feed_author">Robortxin</a>
                     发表博客： <a href="https://www.cnblogs.com/maxin123/p/8298840.html" target="_blank" class="feed_link">第14周总结</a> 
                         <a class="recycle" onclick="return deleteFeed('b61dd38e-932d-424f-ca9e-08d49c352df2', '5c3960681d57bddc40920026')" href="javascript: void(0);" title="删除这个动态">
-                        <img alt="删除" src="//common.cnblogs.com/images/icon_trash.gif"></a>
+                       src="//common.cnblogs.com/images/icon_trash.gif"></a>
                                             <span class="feed_date">2018-01-16 21:14</span>
                 </div>
                     <div class="feed_desc">
@@ -364,213 +348,7 @@ E-mail: ma1169382952@163.com
                 <div class="feed_title">
                     <a href="/u/maxin123/" class="feed_author">Robortxin</a>
                     发表博客： <a href="https://www.cnblogs.com/maxin123/p/8298840.html" target="_blank" class="feed_link">第14周总结</a> 
-                        <a class="recycle" onclick="return deleteFeed('b61dd38e-932d-424f-ca9e-08d49c352df2', '5c3960681d57bddc40920033')" href="javascript: void(0);" title="删除这个动态">
-                        <img alt="删除" src="//common.cnblogs.com/images/icon_trash.gif"></a>
-                                            <span class="feed_date">2018-01-16 21:14</span>
-                </div>
-                    <div class="feed_desc">
-                        通过团队合作， 对CSS界面美化有了新的了解和认识 同时能独立实现一些简单的JS效果
-                    </div>
-            </div>            
-            <div class="clear"></div>
-        </li>
-        <li class="feed_item">
-            <div class="feed_avatar">
-                <a href="/u/maxin123"><img src="//pic.cnblogs.com/face/sample_face.gif"></a>
-            </div>
-            <div class="feed_body" id="feed_content_5c3960681d57bddc40920092">
-                <div class="feed_title">
-                    <a href="/u/maxin123/" class="feed_author">Robortxin</a>
-                    发表博客： <a href="https://www.cnblogs.com/maxin123/p/8298810.html" target="_blank" class="feed_link">第十三周总结</a> 
-                        <a class="recycle" onclick="return deleteFeed('b61dd38e-932d-424f-ca9e-08d49c352df2', '5c3960681d57bddc40920092')" href="javascript: void(0);" title="删除这个动态">
-                        <img alt="删除" src="//common.cnblogs.com/images/icon_trash.gif"></a>
-                                            <span class="feed_date">2018-01-16 21:09</span>
-                </div>
-                    <div class="feed_desc">
-                        掌握了部分javascript代码 知道了软件需求说明书的写法
-                    </div>
-            </div>            
-            <div class="clear"></div>
-        </li>
-        <li class="feed_item">
-            <div class="feed_avatar">
-                <a href="/u/maxin123"><img src="//pic.cnblogs.com/face/sample_face.gif"></a>
-            </div>
-            <div class="feed_body" id="feed_content_5c3960681d57bddc409200fb">
-                <div class="feed_title">
-                    <a href="/u/maxin123/" class="feed_author">Robortxin</a>
-                    发表博客： <a href="https://www.cnblogs.com/maxin123/p/8298778.html" target="_blank" class="feed_link">第十二周总结</a> 
-                        <a class="recycle" onclick="return deleteFeed('b61dd38e-932d-424f-ca9e-08d49c352df2', '5c3960681d57bddc409200fb')" href="javascript: void(0);" title="删除这个动态">
-                        <img alt="删除" src="//common.cnblogs.com/images/icon_trash.gif"></a>
-                                            <span class="feed_date">2018-01-16 21:01</span>
-                </div>
-                    <div class="feed_desc">
-                        十二周总结 第十二周 所花时间（包括上课） 约30小时 代码量（行） 300行 博客量（篇） 2 了解到的知识点 查看了css的使用和JavaScript的应用 第十二周 所花时间（包括上课） 约30小时 代码量（行） 300行 博客量（篇） 2 了解到的知识点 查看了css的使用和JavaScri
-                    </div>
-            </div>            
-            <div class="clear"></div>
-        </li>
-        <li class="feed_item">
-            <div class="feed_avatar">
-                <a href="/u/maxin123"><img src="//pic.cnblogs.com/face/sample_face.gif"></a>
-            </div>
-            <div class="feed_body" id="feed_content_5c3960681d57bddc409200ff">
-                <div class="feed_title">
-                    <a href="/u/maxin123/" class="feed_author">Robortxin</a>
-                    发表博客： <a href="https://www.cnblogs.com/maxin123/p/8298778.html" target="_blank" class="feed_link">第十二周总结</a> 
-                        <a class="recycle" onclick="return deleteFeed('b61dd38e-932d-424f-ca9e-08d49c352df2', '5c3960681d57bddc409200ff')" href="javascript: void(0);" title="删除这个动态">
-                        <img alt="删除" src="//common.cnblogs.com/images/icon_trash.gif"></a>
-                                            <span class="feed_date">2018-01-16 21:00</span>
-                </div>
-                    <div class="feed_desc">
-                        十二周总结 第十二周 所花时间（包括上课） 约30小时 代码量（行） 300行 博客量（篇） 2 了解到的知识点 查看了css的使用和JavaScript的应用 第十二周 所花时间（包括上课） 约30小时 代码量（行） 300行 博客量（篇） 2 了解到的知识点 查看了css的使用和JavaScri
-                    </div>
-            </div>            
-            <div class="clear"></div>
-        </li>
-        <li class="feed_item">
-            <div class="feed_avatar">
-                <a href="/u/maxin123"><img src="//pic.cnblogs.com/face/sample_face.gif"></a>
-            </div>
-            <div class="feed_body" id="feed_content_5c3960681d57bddc409202e4">
-                <div class="feed_title">
-                    <a href="/u/maxin123/" class="feed_author">Robortxin</a>
-                    发表博客： <a href="https://www.cnblogs.com/maxin123/p/8298627.html" target="_blank" class="feed_link">《构建之法》阅读笔记 6</a> 
-                        <a class="recycle" onclick="return deleteFeed('b61dd38e-932d-424f-ca9e-08d49c352df2', '5c3960681d57bddc409202e4')" href="javascript: void(0);" title="删除这个动态">
-                        <img alt="删除" src="//common.cnblogs.com/images/icon_trash.gif"></a>
-                                            <span class="feed_date">2018-01-16 20:24</span>
-                </div>
-                    <div class="feed_desc">
-                        06《构建之法》阅读笔记 写一个软件就是为了解决用户的需求问题，在这个过程中我们首先需要搞清楚用户的需求和产品的使用环境，接下来在设计与实现阶段，我们要弄明白这个软件怎样去解决用户遇到的问题，以及怎样用最优的方案去解决。在最后测试阶段，我们要进行总结，我们是否真的将这个软件完善到了最优，能否提供给用
-                    </div>
-            </div>            
-            <div class="clear"></div>
-        </li>
-        <li class="feed_item">
-            <div class="feed_avatar">
-                <a href="/u/maxin123"><img src="//pic.cnblogs.com/face/sample_face.gif"></a>
-            </div>
-            <div class="feed_body" id="feed_content_5c3960681d57bddc409202e7">
-                <div class="feed_title">
-                    <a href="/u/maxin123/" class="feed_author">Robortxin</a>
-                    发表博客： <a href="https://www.cnblogs.com/maxin123/p/8298627.html" target="_blank" class="feed_link">《构建之法》阅读笔记 6</a> 
-                        <a class="recycle" onclick="return deleteFeed('b61dd38e-932d-424f-ca9e-08d49c352df2', '5c3960681d57bddc409202e7')" href="javascript: void(0);" title="删除这个动态">
-                        <img alt="删除" src="//common.cnblogs.com/images/icon_trash.gif"></a>
-                                            <span class="feed_date">2018-01-16 20:24</span>
-                </div>
-                    <div class="feed_desc">
-                        06《构建之法》阅读笔记 写一个软件就是为了解决用户的需求问题，在这个过程中我们首先需要搞清楚用户的需求和产品的使用环境，接下来在设计与实现阶段，我们要弄明白这个软件怎样去解决用户遇到的问题，以及怎样用最优的方案去解决。在最后测试阶段，我们要进行总结，我们是否真的将这个软件完善到了最优，能否提供给用
-                    </div>
-            </div>            
-            <div class="clear"></div>
-        </li>
-        <li class="feed_item">
-            <div class="feed_avatar">
-                <a href="/u/maxin123"><img src="//pic.cnblogs.com/face/sample_face.gif"></a>
-            </div>
-            <div class="feed_body" id="feed_content_5c3960681d57bddc409203ec">
-                <div class="feed_title">
-                    <a href="/u/maxin123/" class="feed_author">Robortxin</a>
-                    发表博客： <a href="https://www.cnblogs.com/maxin123/p/8298557.html" target="_blank" class="feed_link">《构建之法》阅读笔记5</a> 
-                        <a class="recycle" onclick="return deleteFeed('b61dd38e-932d-424f-ca9e-08d49c352df2', '5c3960681d57bddc409203ec')" href="javascript: void(0);" title="删除这个动态">
-                        <img alt="删除" src="//common.cnblogs.com/images/icon_trash.gif"></a>
-                                            <span class="feed_date">2018-01-16 20:08</span>
-                </div>
-                    <div class="feed_desc">
-                        05《构建之法》阅读笔记 在软件工程领域中，所谓需求分析，就是去确定计算机去“做什么”， 在软件工程中，需求分析包括功能需求、性能需求、可靠性和可用性需求、错误处理需求、接口需求及其他需求等等方面。 对产品功能性的需求要求产品必须实现某些功能。例如，学校的选课软件只允许有学生身份的用户浏览并选择课程
-                    </div>
-            </div>            
-            <div class="clear"></div>
-        </li>
-        <li class="feed_item">
-            <div class="feed_avatar">
-                <a href="/u/maxin123"><img src="//pic.cnblogs.com/face/sample_face.gif"></a>
-            </div>
-            <div class="feed_body" id="feed_content_5c3960681d57bddc409203ef">
-                <div class="feed_title">
-                    <a href="/u/maxin123/" class="feed_author">Robortxin</a>
-                    发表博客： <a href="https://www.cnblogs.com/maxin123/p/8298557.html" target="_blank" class="feed_link">《构建之法》阅读笔记5</a> 
-                        <a class="recycle" onclick="return deleteFeed('b61dd38e-932d-424f-ca9e-08d49c352df2', '5c3960681d57bddc409203ef')" href="javascript: void(0);" title="删除这个动态">
-                        <img alt="删除" src="//common.cnblogs.com/images/icon_trash.gif"></a>
-                                            <span class="feed_date">2018-01-16 20:08</span>
-                </div>
-                    <div class="feed_desc">
-                        05《构建之法》阅读笔记 在软件工程领域中，所谓需求分析，就是去确定计算机去“做什么”， 在软件工程中，需求分析包括功能需求、性能需求、可靠性和可用性需求、错误处理需求、接口需求及其他需求等等方面。 对产品功能性的需求要求产品必须实现某些功能。例如，学校的选课软件只允许有学生身份的用户浏览并选择课程
-                    </div>
-            </div>            
-            <div class="clear"></div>
-        </li>
-        <li class="feed_item">
-            <div class="feed_avatar">
-                <a href="/u/maxin123"><img src="//pic.cnblogs.com/face/sample_face.gif"></a>
-            </div>
-            <div class="feed_body" id="feed_content_5c3960681d57bddc40920432">
-                <div class="feed_title">
-                    <a href="/u/maxin123/" class="feed_author">Robortxin</a>
-                    发表博客： <a href="https://www.cnblogs.com/maxin123/p/8298526.html" target="_blank" class="feed_link">《构建之法》阅读笔记 04</a> 
-                        <a class="recycle" onclick="return deleteFeed('b61dd38e-932d-424f-ca9e-08d49c352df2', '5c3960681d57bddc40920432')" href="javascript: void(0);" title="删除这个动态">
-                        <img alt="删除" src="//common.cnblogs.com/images/icon_trash.gif"></a>
-                                            <span class="feed_date">2018-01-16 20:01</span>
-                </div>
-                    <div class="feed_desc">
-                        04《构建之法》阅读笔记 在典型用户和场景章节中，典型用户分析光看用户的表面语言或行动还是不够的还需要我们找到用户语言行动背后的动机这些都是团队成员在需求分析和设计阶段要反复琢磨的问题。在设计软件的过程中，设计/开发者往往会以我们使用产品的习惯和我们对产品的熟悉程度出发设计，忘了我们的软件是给千千万
-                    </div>
-            </div>            
-            <div class="clear"></div>
-        </li>
-        <li class="feed_item">
-            <div class="feed_avatar">
-                <a href="/u/maxin123"><img src="//pic.cnblogs.com/face/sample_face.gif"></a>
-            </div>
-            <div class="feed_body" id="feed_content_5c3960681d57bddc40920436">
-                <div class="feed_title">
-                    <a href="/u/maxin123/" class="feed_author">Robortxin</a>
-                    发表博客： <a href="https://www.cnblogs.com/maxin123/p/8298526.html" target="_blank" class="feed_link">《构建之法》阅读笔记 04</a> 
-                        <a class="recycle" onclick="return deleteFeed('b61dd38e-932d-424f-ca9e-08d49c352df2', '5c3960681d57bddc40920436')" href="javascript: void(0);" title="删除这个动态">
-                        <img alt="删除" src="//common.cnblogs.com/images/icon_trash.gif"></a>
-                                            <span class="feed_date">2018-01-16 20:01</span>
-                </div>
-                    <div class="feed_desc">
-                        04《构建之法》阅读笔记 在典型用户和场景章节中，典型用户分析光看用户的表面语言或行动还是不够的还需要我们找到用户语言行动背后的动机这些都是团队成员在需求分析和设计阶段要反复琢磨的问题。在设计软件的过程中，设计/开发者往往会以我们使用产品的习惯和我们对产品的熟悉程度出发设计，忘了我们的软件是给千千万
-                    </div>
-            </div>            
-            <div class="clear"></div>
-        </li>
-        <li class="feed_item">
-            <div class="feed_avatar">
-                <a href="/u/maxin123"><img src="//pic.cnblogs.com/face/sample_face.gif"></a>
-            </div>
-            <div class="feed_body" id="feed_content_5c3960681d57bddc4092043d">
-                <div class="feed_title">
-                    <a href="/u/maxin123/" class="feed_author">Robortxin</a>
-                    发表博客： <a href="https://www.cnblogs.com/maxin123/p/8298520.html" target="_blank" class="feed_link">《构建之法》阅读笔记3</a> 
-                        <a class="recycle" onclick="return deleteFeed('b61dd38e-932d-424f-ca9e-08d49c352df2', '5c3960681d57bddc4092043d')" href="javascript: void(0);" title="删除这个动态">
-                        <img alt="删除" src="//common.cnblogs.com/images/icon_trash.gif"></a>
-                                            <span class="feed_date">2018-01-16 20:00</span>
-                </div>
-                    <div class="feed_desc">
-                        03《构建之法》阅读笔记 敏捷开发原则 1.尽早并持续地交付有价值的软件以满足顾客需求。 2.敏捷流程欢迎需求的变化，并利用这种变化来提高用户的竞争优势 3.经常发布可用的软件，发布间隔可以从几周到几个月，能短则短 4.业务人员和开发人员在项目开发过程中应该每天共同工作 5.以有进取心的人为项目核心
-                    </div>
-            </div>            
-            <div class="clear"></div>
-        </li>
-        <li class="feed_item">
-            <div class="feed_avatar">
-                <a href="/u/maxin123"><img src="//pic.cnblogs.com/face/sample_face.gif"></a>
-            </div>
-            <div class="feed_body" id="feed_content_5c3960681d57bddc40920441">
-                <div class="feed_title">
-                    <a href="/u/maxin123/" class="feed_author">Robortxin</a>
-                    发表博客： <a href="https://www.cnblogs.com/maxin123/p/8298520.html" target="_blank" class="feed_link">《构建之法》阅读笔记3</a> 
-                        <a class="recycle" onclick="return deleteFeed('b61dd38e-932d-424f-ca9e-08d49c352df2', '5c3960681d57bddc40920441')" href="javascript: void(0);" title="删除这个动态">
-                        <img alt="删除" src="//common.cnblogs.com/images/icon_trash.gif"></a>
-                                            <span class="feed_date">2018-01-16 20:00</span>
-                </div>
-                    <div class="feed_desc">
-                        03《构建之法》阅读笔记 敏捷开发原则 1.尽早并持续地交付有价值的软件以满足顾客需求。 2.敏捷流程欢迎需求的变化，并利用这种变化来提高用户的竞争优势 3.经常发布可用的软件，发布间隔可以从几周到几个月，能短则短 4.业务人员和开发人员在项目开发过程中应该每天共同工作 5.以有进取心的人为项目核心
-                    </div>
-            </div>            
-            <div class="clear"></div>
+                      
         </li>
 </ul>
 
