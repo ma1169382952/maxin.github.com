@@ -26,169 +26,16 @@ Personal blog: https://www.cnblogs.com/maxin123/
 
 E-mail: ma1169382952@163.com
 
-<body>
-    <div id="top">
-        <div id="top_left">
-            <a href="//www.cnblogs.com">首页</a>
-            <a href="//news.cnblogs.com/">新闻</a>
-            <a href="//zzk.cnblogs.com/">找找看</a>
-            <a href="//academy.cnblogs.com/">学习计划</a>
-        </div>
-    </div>
-    <div class="clear"></div>
-    <div id="wrapper">
-        <div id="header">
-            <div id="logo">
-                <a href="//www.cnblogs.com" title="返回博客园首页">
-                <img src="//common.cnblogs.com/images/logo/logo20170227.png" alt="logo" style="width:165px;height:55px;">
-                </a>
-            </div>
-            <div id="nav_block">
-                <a href="/">园子</a> · 
-                <a href="/followees/">关注</a> · 
-                <a href="/followers/">粉丝</a> · 
-                <a href="/feed/all/">随便看看</a> · 
-                <a href="//msg.cnblogs.com/msg/inbox" target="_blank">消息
-                    <span id="msg_count"></span>
-                </a>
-            </div>
-            <div class="clear"></div>
-            <div id="header_user"><h1 id="header_user_left">
-        欢迎你，Robortxin
-</h1>
-<div id="header_user_right">
-        <a href="/u/maxin123/"><img class="pfs" src="//pic.cnblogs.com/face/sample_face.gif" alt=""></a>
-        <a href="/u/maxin123/">Robortxin</a>
-            · <a href="//www.cnblogs.com/maxin123/">我的博客</a>
-        · <a href="//home.cnblogs.com/set/account/">设置</a>
-        · <a href="javascript:void(0);" onclick="return logout();">退出</a>
-</div>
-</div>
-            <div class="clear"></div>
-        </div>
-        <div id="container">
-            <div id="app_bar">
-    <p class="app_r_3"></p><p class="app_r_2"></p><p class="app_r_1"></p>
-    <div id="app_list_wrapper">
-        <ul class="app_list">
-            <li>
-                <img src="//common.cnblogs.com/images/ico_ing.gif" alt=""><a id="app_ing" href="https://ing.cnblogs.com/">闪存</a>
-            </li>
-            <li>
-                <em><a href="https://i.cnblogs.com/" target="_blank">写博</a></em><img src="//common.cnblogs.com/images/ico_blog.gif" alt=""><a id="app_blog" href="/blog/">博客</a>
-            </li>
-            <li>
-                <em><a href="//group.cnblogs.com/newpost/">发言</a></em><img src="//common.cnblogs.com/images/ico_group.gif" alt=""><a id="app_group" href="//group.cnblogs.com/">小组</a>
-            </li>
-            <li>
-                <em><a href="//news.cnblogs.com/n/publish" target="_blank">投递</a></em><img src="//common.cnblogs.com/images/ico_news.gif" alt=""><a id="app_news" href="/news/">新闻</a>
-            </li>
-            <li>
-                <em><a href="https://q.cnblogs.com/q/new" target="_self">提问</a></em><img src="//common.cnblogs.com/images/ico_question.gif" alt=""><a id="app_q" href="https://q.cnblogs.com/">博问</a>
-            </li>
-            <li>
-                <em><a href="#" target="_blank" onclick="AddToWz();return false;">添加</a></em><img src="//common.cnblogs.com/images/ico_bookmark.gif" alt=""><a id="app_wz" href="//wz.cnblogs.com/">收藏</a>
-            </li>
-            <li>
-                <em><a href="//job.cnblogs.com/admin/" target="_blank">发布</a></em><img src="//common.cnblogs.com/images/ico_job.gif" alt=""><a id="app_job" href="/jobs/">招聘</a>
-            </li>
-            <li>
-                <img src="//common.cnblogs.com/images/ico_kb.gif" alt=""><a id="app_kb" href="/kb/">文库</a>
-            </li>
-        </ul>
-        <div class="app_setting">
-            <a href="//group.cnblogs.com/forum/public/" class="flag_edit" target="_blank">问题反馈</a>
-        </div>
-    </div>
-    <p class="app_r_1"></p><p class="app_r_2"></p><p class="app_r_3"></p>
-</div> 
-            <div id="container_content">
-                
-                <div id="main" onclick="javascript:void(0)">
 
-<link rel="stylesheet" href="/css/home.min.css?v=zNemkX4UB4nWV8ngMtrx6Bt14vi6yy3vyG4OgK9RIsY">
-<link rel="stylesheet" href="/css/user_profile.min.css?v=hwPLf3oe9tsTMtGSk-QTq3v3ywFcuvoDDgfL7wlkSd8">
-<link rel="stylesheet" href="/css/ing_common.min.css?v=QfMBUudiRkSM-bNYzQJCmBtk77hXbZ9wiBzgPrJUPA4">
-<link rel="stylesheet" href="/css/ui-dialog.min.css?v=VJeWkb0L8a4rI3yRQSP_7MXcSk2qtOQPyHPVhCPlnD0">
-<div id="user_profile_block">
-    <table>
-        <tbody>
-            <tr>
-                <td valign="top">
-                    <div class="user_avatar">
-                        <img src="//pic.cnblogs.com/avatar/simple_avatar.gif" alt="Robortxin的头像" class="img_avatar"><br>
-                        <table class="user_profile_nav_block">
-                            <tbody>
-                                <tr>
-                                    <td>
-                                        <ul class="avatar_nav_block" id="avatar_opt_nav">
-                                                                                            <li><a href="/set/avatar/" class="link_modify_info">修改头像</a></li>
-                                            <li><a href="/u/maxin123/detail/" class="link_account">个人资料</a></li>
-                                            <li><a href="//ing.cnblogs.com/u/maxin123/" class="link_mying">闪存主页</a></li>
-                                            <li><a href="//q.cnblogs.com/u/maxin123/" class="link_question">博问主页</a></li>
-                                        </ul>
-                                    </td>
-                                </tr>
-                            </tbody>
-                        </table>
-                    </div>
-                </td>
-                <td valign="top">
-                    <div>
-                        <h1 class="display_name">
-                            Robortxin
-                        </h1>
-                            <div>
-                                <ul id="user_profile" class="user_profile">
-                                    <li id="li_remark" style="display:none"><span class="text_gray">备注名称：</span><span id="remarkId"></span></li>
-                                    <li><span class="text_gray">园龄：</span><span title="入园时间：2017-5-18">2年3个月</span></li><li><span class="text_gray">博客：</span><a href="https://www.cnblogs.com/maxin123/" class="gray" target="_blank">https://www.cnblogs.com/maxin123/</a></li>
-                                </ul>
-                            </div>
-                        <div class="text_gray" style="padding-top: 10px;">
-                            <div class="data_count_block" style="padding: 0px 0 15px;">
-                                <div class="data_left">
-                                    <div class="follow_count"><a id="following_count" href="/u/maxin123/followees/">5</a></div>
-                                    <a href="/u/maxin123/followees/">关注</a>
-                                </div>
-                                <div class="data_right">
-                                    <div class="follow_count"><a id="follower_count" href="/u/maxin123/followers/">2</a></div>
-                                    <a href="/u/maxin123/followers/">粉丝</a>
-                                </div>
-                                <div class="clear">
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="clear">
-                    </div>
-                    <br>
-                    <div class="user_intro">
-                    </div>
-                </td>
-            </tr>
-        </tbody>
-    </table>
-    <br>
-</div>
-<div class="topic_nav_block_wrapper">
-    <ul class="mini_nav_block">
-        <li><a href="/u/maxin123/feed/question/" class="">博问</a></li>
-        <li><a href="/u/maxin123/feed/blog/" class="">博客</a></li>
-        <li><a href="/u/maxin123/" class="current_nav">全部</a></li>
-    </ul>
-    <span class="title_block">最新动态</span>
-    <div class="clear">
-    </div>
-</div>
-<div class="feed_block">
-    <div id="feed_list">
-​            
 
-<ul>
-        <li class="feed_item">
-            <div class="feed_avatar">
-                <a href="/u/maxin123"><img src="//pic.cnblogs.com/face/sample_face.gif"></a>
-            </div>
+
+            <div class="clear"></div>
+
+​      
+
+<ul>        <li class="feed_item">
+
+
             <div class="feed_body" id="feed_content_5d0aeeca63abf8af02de2dab">
                 <div class="feed_title">
                     <a href="/u/maxin123/" class="feed_author">Robortxin</a>
@@ -731,4 +578,3 @@ E-mail: ma1169382952@163.com
 
 
 
-</body>
