@@ -1,6 +1,6 @@
-## 马鑫
+## 马鑫的个人博客主页
 
-###### java开发
+#### java开发
 
 现居地：石家庄
 
@@ -14,9 +14,9 @@
 
 
 
-## MaXin
+## Ma Xin's Personal Blog Home Page
 
-###### Java development
+#### Java development
 
 Present residence: Shijiazhuang
 
@@ -31,8 +31,6 @@ E-mail: ma1169382952@163.com
 ​      
 
 <ul>        <li class="feed_item">
-
-
 
         <li class="feed_item">
            
@@ -146,8 +144,9 @@ E-mail: ma1169382952@163.com
             </div>            
             <div class="clear"></div>
         </li>
-        
-    
+
+
+​    
 
 
 
