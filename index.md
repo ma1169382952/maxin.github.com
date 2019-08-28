@@ -160,16 +160,8 @@ E-mail: ma1169382952@163.com
             </div>            
             <div class="clear"></div>
         </li>
-        <li class="feed_item">
-            <div class="feed_avatar">
-                <a href="/u/maxin123"><img src="//pic.cnblogs.com/face/sample_face.gif"></a>
-            </div>
-            <div class="feed_body" id="feed_content_5c3960681d57bddc4091fe87">
-                <div class="feed_title">
-                    <a href="/u/maxin123/" class="feed_author">Robortxin</a>
-                    发表博客： <a href="https://www.cnblogs.com/maxin123/p/8298948.html" target="_blank" 
-                      
-        </li>
+        
+    
 </ul>
 
 
