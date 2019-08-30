@@ -2,7 +2,7 @@
 typora-root-url: ./
 ---
 
-## 马鑫的个人博客主页
+##                                  马鑫的个人博客主页
 
 ![](/1.jpg)
 
@@ -21,10 +21,6 @@ typora-root-url: ./
 电子邮箱：ma1169382952@163.com
 
 
-
-
-
-## Ma Xin's Personal Blog Home Page
 
 #### Java development
 
