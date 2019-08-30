@@ -2,7 +2,7 @@
 
 
 
-![](C:\Users\xinxin\Desktop\1.jpg)
+![](https://github.com/ma1169382952/maxin.github.com/blob/master/1.jpg)
 
 
 
