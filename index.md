@@ -1,8 +1,10 @@
+---
+typora-root-url: ./
+---
+
 ## 马鑫的个人博客主页
 
-
-
-![](https://github.com/ma1169382952/maxin.github.com/blob/master/1.jpg)
+![](/1.jpg)
 
 
 
