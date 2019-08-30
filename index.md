@@ -1,5 +1,13 @@
 ## 马鑫的个人博客主页
 
+
+
+![](C:\Users\xinxin\Desktop\1.jpg)
+
+
+
+
+
 #### java开发
 
 现居地：石家庄
